@@ -1,0 +1,677 @@
+---
+date created: 2024-02-27
+date updated: 2024-03-12
+dg-publish: true
+homepage: obsidian://open?vault=My%20Adventures%20in%20Nursing%20School&file=My%20Adventures%20in%20Nursing%20School
+---
+- February 28, 2024
+- Exam date: March 27, 2024 @ 8 am
+- Predicted exam contents before Lecture Stress
+  
+- `Chapter 39 Oral and Esophagus Problems` 
+- `Chapter 41 Lower Gastrointestinal Problems` 
+- `Chapter 42 Obesity` 
+- `Chapter 40 Upper Gastrointestinal Problems` 
+- `Chapter 43 Liver Problems` 
+- `Chapter 44 Biliary and Pancreas Problems``
+`
+- ⭐Predicted high priority subject
+- For any condition that requires or has a surgical treatment, what are the indicated medical treatment pre and post-op
+- Any "new drug therapy" will not be on the exam
+  
+<abbr title="Tooltip">Message</abbr>
+
+
+- **DIARRHEA**
+    - & Simple Nursing Diarrhea VIDEO
+        - ![[Dehydration & Diarrhea.mp4]]
+        - ? What is diarrhea and what causes it? 
+            -  Diarrhea is characterized by the passage of 3 or more loose or liquid stools within 24 hours. 
+            - The #1 cause of diarrhea is the ingestion of infection organisms, such as rotavirus (virus), E.Coli and C.diff (bacteria), and giardia (parasitic). 
+    - ? What type of precautions do you need for infectious diarrhea for yourself and the patient?
+        - Contact precautions - Handwashing, PPE
+        - ! Alcohol-based hand cleansers are INEFFECTIVE
+        - The patient needs to be isolated
+    - ? What are the signs and symptoms of diarrhea?
+        - Liquid stools, sometimes bloody
+        - Nausea, vomiting
+        - Abdominal cramping
+        - Fever
+        - ! Dehydration
+    - ? What are notable traits of diarrhea that you will monitor for?
+        - ! Strict infection control
+        - ! Monitor labs
+        - ! Fluid/electrolytes: replace
+        - Monitor for dehydration
+        - Monitor for skin breakdown
+        - Strict intake/outtake, weigh daily
+        - Antidiarrheals theraputic effect
+        - Antibiotic side effects
+    - ? What type of medications can trigger diarrhea?
+        - Antibiotics - disrupts gut flora
+        - Magnesium - draws water into intestines
+        - Laxatives
+    - ? What are the risk factors for diarrhea?
+        - Elderly (typically more life threatening via dehydration)
+        - Gastric acidity (if gastric acid is too alkaline, pathogens can survive)
+        - Anyone on antibiotics
+        - Immunocompromised
+    - ? Give examples of medication that can treat for diarrhea
+        - Pepto-Bismol (reduces gastric secretions)
+        - Imodium (inhibits peristalsis, delays transit, and increases absorption of fluid from stools)
+        - Lomotil (opioid/anticholinergic, reduces peristalsis activity)
+        - Donnagel-PG (decreases peristalsis activity and intestinal motility)
+        - Sandostain (increases fluid absorption in GI tract, decreasese intestinal motility)
+    - ? What bacteria is likely in a patient in the gut biome if they've been having diarrhea for 3 to 5 days?
+        - C.Diff (Clostridium difficile)
+    - ? How is a bacterial cause of diarrhea confirmed?
+        - Stool culture
+        - CBC (indicators of infection)
+    - ? What is are signs that a patient's condition of diarrhea is improving?
+        - Stools are less loose or are solid
+        - Decrease in need for bowel movements
+        - Increase appetite
+        - Decrease in abdominal cramping
+- FECAL INCONTINENCE
+	- ? What is fecal incontinence and what causes it?
+		- Involuntary passage of stool. The normal structures that control fecal movement are disrupted in some form whether it is by motor function (sphincter, rectal floor muscle contraction) or sensory function (impaired perception of stool)
+	- ? What are signs and symptoms of fecal incontinence?
+		- Loss of control over bowel movements, leading to leakage or liquid stool
+		- Feelings of urgency and frequency  to have a bowel movement
+		- Difficulty emptying bowels completely during a bowel movement
+	- ? What are the risk factors for fecal incontinence
+		- Elderly - reduced muscle tone of pelvic floor strength
+		- Women - especially after childbirth related to weakened pelvic floor muscles
+		- Neuromuscular disorders - any disorder that effects neuromuscular control, such as Parkinson's, spinal damage, etc
+		- Smokers - tobacco contributes to decreased blood flow to the anal area, which can impair muscle function
+		- Certain medication (laxatives/antidiarrheals/sedatives)
+	- ? What are complications for fecal incontinence?
+		- Impaired skin integrity of the rectal area
+		- Social isolation due to self esteem issues with this conditions
+	- ? What are some nursing diagnosis for fecal incontinence?
+		- Bowel incontinence r/t rectal floor muscle weakne
+		- Self care deficit
+		- Risk for impaired skin integrity
+		- Social isolation
+		- Risk situational low self esteem
+	- ? How do you treat for fecal incontinence?
+		- Using a medical device that can maintain perianal skin integrity, like recal-fecal management systems: bowel catheter
+		- Inconstinence briefs if changed regularly
+		- Protective skin barriers
+		- Kegal's
+		- Fiber
+		- Bowel training (gastrocolic relfex is strongest after breakfast)
+- **CONSTIPATION**
+	- & Simple Nursing CHEET SHEET & VIDEO
+		- ![[Constipation .mp4]]
+		- ![[5. Constipation  1.pdf]]
+		- ![[3.0 Constipation, TEF & EA 2.pdf]]
+	- ? What is constipation and what can cause it?
+		- Absent or infrequent bowel movements; a decrease from normal baseline (ie 3/day to once every 3 days). It's the retention of feces in the rectum and may be an indicator of bowel obstruction.
+		- Common causes include:
+		- Insufficient fiber intake
+		- Insufficient water intake
+		- Low physical activity
+		- Ignoring defecation urge
+		- ! Some medications: opioids, Ca, antacids, SSRIs
+		- ! Diseases that slow SI transit: parkinson's, MS, depression, SCI, CVA
+		- Chronic laxative use
+	- ? What are some signs and symptoms of constipation?
+		- Stools are absent, hard, dry, or difficult to pass
+		- Abdominal distention, bloating
+		- Increase in flatulence
+		- Rectal pressure
+		- Hemorrhoids
+	- ? What are some medications that can cause constatation?
+		- Opioids
+		- Cardiac arrest medication
+		- [[Antacids]]
+		- [[SSRI]]
+	- ? What are some complications of constipation?
+		- Valsalva maneuver (forced expiration against a closed glottis) can cause [[bradycardia]] and [[syncopal]]
+		- ! Obstipation - severe constipation with no gas, no stool, colonic perforation (LIFE THREATENING, raised wbc)
+		- Bowel obstruction (either impaction or perforation)
+	- ? How would you treat for constipation?
+		- Laxatives
+		- Enemas
+		- Biofeedback (used for sphincter dysfunction)
+		- Nutritional therapy: increase dietary fiber, increase oral fluids (CAUTION with heart diseases)
+- **IBS (IRRITABLE BOWEL SYNDROME)**
+	- & Simple Nursing CHEET SHEET & VIDEO
+		- ![[IBS - Irritable bowel syndrome .mp4]]
+		- ![[1.5 IBS - Irritable Bowel Syndrome .pdf]]
+	- ? What is irritable bowel syndrome and what can cause it?
+		- Intermittent and recurrent abdominal pain. There may be stool pattern irregularities.
+		- The cause can be unknown, but can be related to:
+		  Inflammation
+		  Altered bowel motility
+		  GI infections
+		  Food intolerance/allergies
+		  Heightened visceral sensitivity
+		  Psychological stressors
+	- ? What are signs and symptoms of IBS?
+		- ! Alternating sessions of diarrhea/constipation
+		- Chronic abdominal pain
+		- Excessive flatulence
+		- Fatigue
+		- Headache
+		- Continual defecation urgency
+		- Sensation of incomplete evacuation
+		- Sleep disturbances
+	- ? What are the risk factors for IBS?
+		- Psychosocial attributes common in patients with IBS:
+		  Anxiety, panic disorder
+		  Depression
+		  Posttraumatic stress disorder
+		  Abuse history
+		  Stress can exacerbate stress symptoms
+	- ? What are complications for IBS?
+		- Malabsorption and nutritional deficiencies
+		- Hemorrhoids (straining during bowel movements) 
+		- IBS is often associated with other conditions, such as fibromyalgia or interstitial cystitis
+	- ? How do you treat for IBS?
+		- ! Diet - eliminate gas-producing foods (fruits, eggs, milk products), increase dietary fiber (20g/day)
+		- Yogurt is well tolerated
+		- Probiotics
+		- Stress management and cognitive therapy
+		- Drug therapy:
+		  Antispasmodic medications that decrease GI motility
+		  Hyoscamine (Cystospaz)
+		  Dicyclomine (Bentyl)
+	- ? What are some medications for IBS?
+		- Alosetron (Lotronex) - Discontinue drug if constipation/abdominal pain occurs
+		  Available ONLY for patients who have not responded to other IBS therapies. It has serious side effects, including severe constipation and GI bleeding.
+		- Loperamide (Imodium)
+		  Used to treat incidencese of diarrhea; it is a synthetic opioid that decreases intestinal transit.
+		- Lubiprostone (Amitiza)
+		  Approved for treatment for women w/ IBS related constipation
+		- Linaclotide (Linzess) - Contraindicated in patients w/ history of mechanical obstruction or a prior bowel surgery
+		  Approved for treatment for men & women w/ IBS related constipation. 
+		- Antidepressants
+		  Possibly works by decreases peripheral nerve sensitivity
+- **APPENDICITIS**
+	- & Simple Nursing CHEET SHEET & VIDEO
+		- ![[Appendicitis .mp4]]![[1. Appendicitis.pdf]]
+	- ? What is appendicitis?
+		- Inflammation of the appendix
+		- It's causes are not fully understood, but typically stems from an infection from the opening of the appendix, leading to inflammation. This inflammation can impede on blood supply and cause the perforation and peritonitis become gangrenous 
+	- ? What are signs and symptoms of appendicitis?
+		- ! PAIN
+		- Low grade fever
+		- ! Periumbilical pain (Right lower quadrant) that shifts to the right lower quadrant of the abdomen
+		- Pain is relieved when the right left is flexed
+		- ! Rebound tenderness (pain when removing pressure)
+		- Muscle guarding
+		- Coughing and sneezing makes the pain worse
+	- ? How can appendicitis be diagnosed; what labs can identify it?
+		- Low grade fever and an increase in WBC (indicators of infection)
+		- ! CT Scan
+		- Ultrasound
+		- MRI
+	- ? What are complications for appendicitis?
+		- ! The appendix can rupture, leading to peritonitis (MAY BE FATAL)
+	- ? How do you treat for appendicitis?
+		- ! Immediate appendectomy for surgical removal of the appendix
+		- If there is suspicion of a rupture or abscess: immediate antibiotics treatment, NPO, and parenteral fluids (6 hours before appy) to prevent dehydration
+	- ? What are indicators that the appendix has ruptured?
+		- ! Rigid, board-like abdomen
+		- ! No bowel sounds auscultated after 5 minutes
+		- High fever
+		- [[Tachycardia]] and [[tachypnea]], rapid breathing
+		- ! Contact the HCP immediately to prepare the patient for emergency surgery 
+	- ? What are the pre-op and post-op management procedure for appendectomies?
+		- Pre-op:
+		  Keep NPO, NG tube, monitor vitals
+		  IV line/fluid resuscitation
+		  Antibiotics, [[analgesics]], [[antimetics]]
+		  Generic sugery prep (teaching, consent, checklist)
+		- Post-op
+		  Same as any abdominal surgery - Ambulation day 1, advance diet as tolerated, resume normal activities within 2-3 weeks.  
+	- ? What should you avoid while a patient experiences acute appendicitis?
+		- NO heating pad or blanket - AVOID encouraging blood flow to the appendix area
+		- NO laxatives or enemas - AVOID adding pressure to the appendix area to avoid rupture
+- **PERITONITIS**
+	- & Simple Nursing VIDEO
+		- ![[Peritonitis.mp4]]
+	- ? What is peritonitis?
+		- Localized or generalized inflammatory process in the [[peritoneum]]. Intestinal contents and bacteria irritate a normally sterile peritoneal cavity. In inflammation creates massive fluid shifts and hypotension.
+		- It's most commonly caused by a bacterial infection. Damage to the abdomen, such as a ruptured appendix, duodenal ulcer, ruptured diverticulitis, blunt truama, pancreatitis, and various ischemic bowel disorders can also cause peritonitis. 
+	- ? What are signs and symptoms of peritonitis?
+		- ! Abdominal pain; rebound tenderness, muscular rigidity, spasms
+		- ! Board-like abdomen or distention
+		- Fever
+		- [[Tachycardia]], [[tachypnea]]
+		- Absent bowel sounds
+		- Altered bowel habits
+	-  What are the risk factors for peritonitis?
+	- ? What are complications for peritonitis?
+		- ! Hypovolemic shock
+		- ! Sepsis
+		- Death
+		- Intrabdominal abscess formation
+		- Paralytic ileus
+		- Acute respiratory distress syndrone
+		- Multi-organ failure
+	- ? How would you detect peritonitis and what labs would indicate it?
+		- Raised WBC
+		- Peritoneal aspiration shows pus and bacteria
+		- In an abdominal x-ray, you would see dilated loops of the bowels (paralytic ileus) or free air (perforation)
+		- Ultrasound or a CT identifying ascites or abscess
+	- ? How do you treat for peritonitis?
+		- For mild, medical managment:
+		  Antibiotics (priotity)
+		  IV fluid
+		  NG/NPO
+		  Analgesics, antiemetics
+		  Monitor vitals
+		- During surgery:
+		  Locate the cause of inflammation
+		  Drain purulent fluid
+		  Repair damage of perforated organs
+	- ? After surgery to treat peritonitis, how would you monitor the patient post-op?
+		- Maintain and monitor drains
+		- Monitor labs: WBC and cultures
+		- Follow standard abdominal surgery procedures (day 1 ambulation, DVT prophy)
+- ⭐**CROHN'S DISEASE (INFLAMMATORY BOWEL DISEASE)**
+    - & Simple Nursing VIDEO of Crohn's Disease
+        - ![[Ulcerative Colitis vs. Crohn’s Disease Short.mp4]]
+    - ? What is Crohn's disease and the causes of it?
+        - A hereditary autoimmune disease where the nervous system attacks its own GI tract. It is a chronic and recurrent inflammation of the GI tract. Inflammation can happen on any segment of the GI tract, from mouth to anus.
+    - ? What are specific clinical manifestations of Crohn's disease?
+        - Diarrhea
+        - Cramping, abdominal pain
+        - Severe weight loss
+        - Nutritional deficiency
+        - Perineal abscess
+        - ! Fistula formation
+        - Fever
+    - ? How is tissue that's effected by Crohn's disease described as, visually?
+        - A cobblestone-like appearence
+        - ![[Exam 3 PRE-STRESS-20240315230000327.webp|231]]
+    - ? What are the risk factors for Crohn's disease?
+        - Family history
+    - ? What are complications for Crohn's disease?
+        - The narrowing of intestinal lumen r/t inflammation may cause a bowel obstruction
+        - In ulcerations, microscopic leaks can allow boewl contents to spill into peitoneal cavity
+        - Peritonitis may develop
+    - ? Unique clinical manifestations of Crohn's Disease compared to Ulcerative Colitis
+        - Can manifest on any segment of the GI tract: mouth to anus
+        - ! Skip lesions. There can be healthy tissue between areas of inflammation, creating a patchy pattern of inflammation
+        - Fistulas can create abnormal connections between different parts of the digestive tract. These formations can lead to pockets of pus.
+        - Crohn's Disease most commonly involves the perianal area; this is not a typical manifestation for ulcerative colitis
+    - ? What would be involved in surgical therapy for Crohn's disease?
+        - 75% will require some form of surgery related to Crohn's disease
+          A strictureplasty will widen a narrowed bowel (bowel resection)
+        - Surgery is also used to levitate obstructions, bleeding, and fistulas
+        - Short bowel syndrome is a common post-op complication where the small intestine is unable to absorb sufficient nutrients from foods. It can lead to dehydration and malnutrition. Sometimes, a lifetime of fluid bolus and total parenteral nutrition (IV) may be needed
+    - ? What could be suggested to improve an active flareup from Crohn's disease?
+        - High fiber and fruit intakes
+        - Oral contraceptives and NSAIDS will exacerbate symptoms
+- ⭐ **ULCERATIVE COLITIS** **(INFLAMMATORY BOWEL DISEASE)**
+	- & Simple Nursing VIDEO of Ulcerative Colitis
+		- ![[Ulcerative Colitis vs. Crohn’s Disease.mp4]]
+	- ? What is ulcerative colitis?
+		- Studies suggest a genetic predisposition of this autoimmune disease. An ascending inflammation pattern that occurs in the innermost bowel layer. Its active area is the rectum to colon.
+	- ? What are symptoms unique to ulcerative colitis?
+		- ! Bloody diarrhea, rectal bleeding
+		- Abdominal pain and cramping
+		- 10 - 20 stools a day
+		- [[Tenesmus]]
+		- Fever
+	- ? What are the risk factors for
+	- ? What are complications for ulcerative colitis?
+		- Water and lytes cannot be absorbed through the inflammation
+		- Diarrhea; this leads to huge fluid and electrolyte losses and protein loss through stool
+		- Psudopolyps develops; these are projections into the bowel lumen
+	- ? Unique clinical manifestations in ulcerative colitis compared to Crohn's disease
+		- ! Primarily affects the colon and the rectum
+		- Inflammation affects the innermost lining (mucosa) of the colon and the rectum
+	- ? What would be involved in surgical therapy for ulcerative colitis?
+		- Total proctocolectomy with a permanent ileostomy
+		- Removal of the colon, rectum, and anus
+		- Continence is no longer possible
+		- Terminal ileum brought out through abdominal wall, forming a stoma.
+	- ? What could be suggested to improve the symptoms of ulcerative colitis?
+		- Increase vegetable intake
+- INFLAMMATORY BOWEL DISEASE
+	- What is inflammatory bowel disease?
+		- An umbrella term for chronic inflammatory conditions that affect the digestive tract.
+		- Two prominent diseases that fall under this category are Crohn's disease and ulcerative colitis.
+	- What are risk factors to an inflammatory bowel disease?
+		- Hereditary
+		- Environmental factors, such as air pollution, stress, smoking
+		- 
+- **OSTOMY DIVERICULOSIS/ITIS**
+	- What is
+	- What are signs and symptoms
+	- What are the risk factors for
+	- What are complications for
+	- What are nursing diagnosis for
+	- How do you treat for
+- **INTESTINAL OBSTRUCTION**
+	- What is intestinal obstruction?
+		- 
+	- What are signs and symptoms
+	- What are the risk factors for
+	- What are complications for
+	- What are nursing diagnosis for
+	- How do you treat for
+-  **BILIARY TRACT DISORDER**
+	- What is a biliary tract?
+		- A path by which bile is secreted by the liver and transported to the first part of the small intestine (duodenum)
+		- The gallbladder itself is a small organ where bile is stored before it's released to the small intestine. 
+		- Bile digests fat
+	- What is cholecystitis?
+		- The inflammation of the gallbladder. It's associated with cholelithiasis (stones in the gallbladder; this is the most common disorder of the biliary system)
+		- The cystic duct of the gallbladder could become occluded; the GB distends with bile or pus; GB wall is scarred and functionality is decreased
+	- What is cholelithiasis?
+		- Altered balanced of cholesterol, bile salts, and calcium in bile solution, causing a solidified bile solution.
+		- The statis of bile can lead to further saturation and solidification of the bile solution; this can be related to immobility, pregnancy, inflammatory or obstruction lesions of the biliary system.
+		- The stones may remain in the gallbladder or migrate to the cystic/common bile duct and causes pain as it passes through
+	- What are signs and symptoms of a biliary tract disorder?
+		- Pain can vary from none to severe. It's more servere if the stones are moving or obstructing.
+		- Tachycardia, diaphoresis
+		- May refer to shoulder/scapula
+		- Residual tenderness in RUQ
+		- Occurs 3-6 hours after a high-fat meal or when patient lies down
+		- Jaundice
+		- Nausea/vomiting
+		- Restlessness
+		- Diaphoresis
+		- Fever and chills (raised WBC)
+		- Indigestion
+	- What are the symptoms of an obstructed bile flow?
+		- Jaundice
+		- Pruritus
+		- Clay-colored stools
+		- Dark amber urine
+		- Fatty food intolerance
+		- Bleeding tendencies
+		- Steatorrhea
+	- Who are at risk for gallbladder disease?
+		- 8-10% adults in the US
+		- Multiparous women, persons over 40 years, Native Americans
+		- Women with estrogen therapy (menopause)
+		- Oral contraceptive users
+		- Sedentary lifestyle, mobility, familial tendency, obesity
+	- What are complications for biliary tract disease?
+		- Gangrenous GB
+		- Gallbladder rupture, bile peritonitis
+		- Abscess formation
+		- Pancreatitis
+		- Fistulae formation
+		- Cholangitis (inflammation of bilitary ducts)
+	- What are expected labs for a patient with a biliary tract disorder?
+		- :luc_arrow_up:LFT (liver damage)
+		- :luc_arrow_up:WBC 
+		- :luc_arrow_up:
+	- How do you treat for biliary tract disease?
+		- How many weeks of restrictions for lab colly 6 weeks
+		- Low fat diet
+		- Open folly low fat
+- ⭐**GERD (GASTRO ESOPHAGEAL REFLUX DISEASE)**
+	- What is
+	- What are signs and symptoms
+	- What are the risk factors for
+	- What are complications for
+	- What are nursing diagnosis for
+	- How do you treat for
+- ⭐**CIRRHOSIS**
+	- End term disease
+	- What is
+	- What are signs and symptoms
+	- What are the risk factors for
+	- What are complications for
+	- What are nursing diagnosis for
+	- How do you treat for
+- ⭐ **ENTERAL AND PARENTERAL NUTRITION (EN)**
+	- What is
+	- What are signs and symptoms
+	- What are the risk factors for
+	- What are complications for
+	- What are nursing diagnosis for
+	- How do you treat for
+- **GASTRITIS (Ch.40)**
+	- ? What is gastritis?
+		- The inflammation of gastric mucosa. It's very common and the breakdown is normally in the protective gastric mucosal barrier. This condition can be acute (hours to days) or chronic.
+	- ? What are signs and symptoms of gastritis?
+		- Anorexia
+		- Nausea
+		- Vomitting
+		- Hemorrhage (common with alcohol abuse and may also be the only symptom)
+		- Epigastric tenderness, fullness
+	- ? What are the risk factors of gastritis?
+		- Any drug that has a direct irritating effect on the gastric mucosa (Asprin, NSAIDS, corticosteroids, anticoagulants)
+		- Dietary risks - alcohol (binge drinking), spicy food
+		- Microorganisms - Helico pylori (promotes breakdown of mucosal barrier), bacterial, viral, fungal infections
+		- Autoimmune atrophic gastritis (associated with H.pylori)
+		- Anatomic changes after GI surgical procedures
+		- Environmental factors - radiation, smoking
+		- Psychological stress, chronic disorders, being female, >60 years old, history of ulcer disease
+	- ? What are some labs that could indicate gastritis?
+		- ! Endoscopic examination with biopsy (for definitive diagnosis, GOLD STANDARD)
+		- H. pylori infection tests (breath, urine, serum, stool, gastric tissue)
+		- CBC - indicators of anemia
+		- Stool - occult blood
+	- ? What are complications for gastritis?
+		- Chronic gastritis can evolve to loss of intrinsic factor when the acid-secreting cells are lost or malfunctioning. These cells are essential for absorbing cobalamin (vitamin B) and cobalamin deficiency can lead to pernicious anemia
+		- Gastric cancer risk is increased in chronic gastritis
+	- ? How do you treat for gastritis?
+		- Flare ups can be quelled by:
+		- ! Eliminating the cause of it (bacterial, dietary, allergy, etc)
+		- Managing symptoms: If the patient vomits, treat the patient as NPO, apply IV fluids to prevent dehydration, bedrest, and antiemetics 
+- **HEPATITIS (Ch.43)**
+	
+	- ? What is hepatitis and its variants?
+		- Inflammation of the liver. The several viral variants of hepatitis have different forms of transmission (primarily through blood and contaminated water)
+		- A- from something you ATE
+		- B- from BLOOD
+		- C- CUTANEOUS, CAN’T say no to…
+		- D- DERMATOLOGIC
+		- E- from something you EAT
+		- ![[Exam 3 PRE-STRESS-20240306123224892.webp]]
+	- ? What are signs and symptoms of the 3 phases of hepatitis (acute or chronic?
+		- Many patients are asymptomatic
+		- <span style="color:#ff0000"><span style="color:#ff0000">**Stage 1: Prodromal (pre-icteric)**</span></span>
+		- ! This phase is the most infection phase of hepatitis; it is the incubation period of the viral disease
+		- Generally non-specific manifestations
+		- Malaise (general feeling of discomfort)
+		- Fatigue
+		- Myalgias/arthalgias (muscle ache)
+		- Anorexia
+		- Nausea/vomiting
+		- Low grade fever
+		- ! Itching "pruritus"
+		- <span style="color:#ff0000">Stage 2: Icteric </span>
+		- Hepatomegaly (enlargement of the liver)
+		- Physical manifestions:
+		- Lymphadenopathy (swelling of lymph nodes)
+		- Splenomegaly
+		- ! Icteric (jaundice) or aniveteric (dark urine, light or clay colored stools, pruitus)
+		- <span style="color:#ff0000">Stage 3: Convalescent</span> (recovery)
+		- Jaundice begins to disappear
+		- Some symptoms persist: malaise, fatigue
+		- Hepatomegaly persists
+		- Splenomegaly subsides
+	- ? What are some lab values to monitor for indicators of hepatitis?
+		- ! Elevated bilirubin (will manifest as jaundice, dark colored urine, clay color stools "pale stools")
+		- ! Elevated PT & aPTT (will manifest as bruising)
+		- ! Low albumin (will manifest as edema)
+	- ? What are some notable traits of the recovery phase (convalescence) of hepatitis?
+		- Most patients recover completely with no complications
+		- Prior infection provides immunity to Hep A and B variants
+		- Patients can still be re-infected with the other types of viral hepatitis and different strains of hep C
+		- Some HBV and the majority of HCV result in chronic hepatitis
+	* ? What are complications for hepatitis?
+		- Acute liver failure
+		- Some hepatitis variants cause chronic hepatitis (Some HBV, majority of HCV)
+		- Hepatic encephalopathy
+		- Ascites
+		- Hepatocellular carcinoma
+		- Portal hypertension
+	- ? How would you diagnose for hepatitis and its variant?
+		- Specific antigen are present in each type of viral hepatitis except for HEV
+		- ! Liver function tests (Elevated ALT & AST and bilirubin)
+		- Viral genotype testing
+		- Physical assessment findings (tender liver, hepatomegaly, splenomegaly)
+		- FibroScan for liver fibrosis
+		- FibroSure (FibroTest)  tests for the degree of liver fibrosis
+	- ? How do you treat for hepatitis (both acute and chronic) in collaboration with the patient?
+		- ! Well balanced diet (increased calorie, low fat, low protein)
+		- Rest so the liver can regenerate
+		- Vitamin supplements (B complex, K)
+		- Avoid drugs and alcohol detoxified by the liver
+		- Being aware of possible contacts
+		- Only acute HBV and HBV have theraputic drug therapies:
+		  HBV - drug application only appleid if severe
+		  HCV - pegylated interferon, ribavirin, olysio and 
+		- Support therapy:
+		  Antiemetics (nausea)
+		  Antihistamines (itching)
+	- ? What are some ways you can collaboratively care with the patient?
+		- Promote for hepatitis A and B vaccines
+		- Teach proper handwashing technique-- hepatitis does NOT require isolation
+- **OBESITY (Ch.42)**
+	- What is obesity?
+		- Increase in body weight beyond the body's physical requirement. It is an increase in number of fat cells and the fat cells increase their size several thousand folds to accomodate large increases in lipid storage. This process occurs primarily in the abdominal and SQ tissues
+		- This is the US' most common nutritional problem. 42.4% of the US population is obese and 1/3rd of children/teens are overweight.
+	- What are signs and symptoms
+	- Who are at risk for obesity?
+		- Some genetic factors
+		- Environmental factors - access to fast-food, portion sizes, lack of physical exercise and use of technology 
+		- Socioeconomic factors - low income, less outdoor activity
+		- Psychosocial - food for comfort and social component
+	- What are complications for
+	- What are nursing diagnosis for
+	- How do you treat for obesity?
+		- Nutritional therapy
+		- Behavior and lifestyle modifications
+		- Surgical interventions
+		- Drug therapy is only reserved for BMI >27 with weight related conditions. Side effects of typical nutritional drugs include jitters, palpitations, tachycardia, overstimulation, insomnia, potencial for abuse, stool leakage, flatulence, diarrhea, abdominal bloating, tachycardia, HTN
+- ⭐**PANCREATITIS (Ch.44)**
+	- ? What is the pancreas?
+		- Exocrine production; it helps with digestion with pancreatic juice. It breaks down carbs, fats, enzymes. Endocrine aids in regulation of blood sugar
+	- ? What is the biliary tract/tree?
+		- System of vessels that direct the digestive secretions from the liver, gallbladder, and pancreas into the duodenum. The exit hole into the duodenum is called the ampulla of vater.
+	- ? What is bile and bilirubin?
+		- Bilirubin is the product of RBC breakdown and it is excreted in bile. Bile is released from the liver and delivered to the intestine via depatic duct. 
+		- Biliary tract disease interrupts this process.
+	- ? What is acute and chronic pancreatitis and what causes it?
+		- The autodigestion of the pancreas by pancreatic enzymes. It can be mild edema to severe necrosis. The severity depends on the extent of pancreatic destruction.
+		- The pancreatic enzymes are active inside of the pancreas instead of outside of it and in the intestine; this damage the pancreas.
+	- ? What are signs and symptoms of pancreatitis?
+		- Severe and sudden onset of abdominal pain
+		- LUQ to Mid-epigastric; it radiates to the back
+		- Severe, deep, piercing, steady
+		- ! Aggravated by eating 
+		- Not relieved by vomitting
+		- Tenderness and guarding with palpation
+		- Typical abdominal obstruction symptoms
+		- Edema
+		- With lung involvement:
+		  Cyanosis
+		  Dyspnea
+		  Crackles in lungs
+		- Jaundice
+	- ? What are some symptoms of pancreatitis that will be visible to a nurse performing a physical exam?
+		- Discoloration of the abdominal wall related to bloodstained exudate seepage from the pancrease
+		- Cullen's sign - bluish periumbulical discoloration
+		- Grey Turner's sign - bluish flank discoloration
+		- Pseudocysts - cavities outside of the pancreas filled with necrotic products
+		- Abscess
+		- Abdominal distention or tenderness
+		- Plumonary manifestations (crackles, tachypnea)
+	- ? What are the risk factors for pancreatitis?
+		- ! ALCOHOLISM
+		- Men are more prone
+		- ! Middle age
+		- ! Having biliary tract disease
+		- [[Hypertriglyceridemia]]
+		- Smoking
+		- Less common causes:
+		  Post surgical abdominal truama
+		  Viral infection
+		  Penetrating duodenal ulcer
+		  Cysts, abscess
+		  Drugs (steroids, thiazide, diuretics, NSAIDS, sulfa)
+	- ? What is a mild case of acute pancreatitis?
+		- It's mild
+		- Causes edema or interstitial
+		- Typically self-limiting to the pancreas
+	- ? What is a severe case of pancreatitis?
+		- It's necrotizing
+		- Risk for developing pancreatic necrosis, multi-organ failure, sepsis
+		- 25% mortality rate
+	- ? What are complications for pancreatitis?
+		- Leakage of the pancreatic enzymes from an auto-digested pancreas can cause peritonitis
+		- The inflammatory response can pull so much plasma from the blood and trigger [[hypovolemia]]
+		- Blood and pancreatic fluid escape into abdominal cavity, which decreases blood volume and results in a large drop in blood pressure
+	- ? What are some lab results you would expect to see in a patient with pancreatitis?
+		- ! Serum amylase :luc_arrow_big_up: and serum lipase :luc_arrow_big_up:(most important tests)
+		- Blood glucose :luc_arrow_big_up:
+		- Triglycerides :luc_arrow_big_up:
+		- Liver enzymes :luc_arrow_big_up:
+		- Bilirubin :luc_arrow_big_up:
+		- ! Serum Ca :luc_arrow_big_down:
+	- ? How would you be able to diagnose for pancreatitis?
+		- ! Contract-enhance CT scan
+		- ! ERCP (endoscopic ultrasound)
+		- Abdominal/endoscopic ultrasound
+		- Magnetic resonance cholangiopancreatography
+		- Chest x-ray (atelectasis, pleural effusions)
+	- ? How do you treat for pancreatitis?
+		- Prioritize pain management
+		- Prevent/alleviate shock
+		- Correct fluid/electrolyte imbalance
+		- Prevention/treatment of infection
+		- Removal of precipitating cause
+		- TPN, PATIENT IS NPO
+		- In conservative therapy, this is a more intense therapy for pancreatitis control. It includes aggressive hydration and minimizing pancreas stimulation (NPO, NG to suction, enteral nutrition). The leading cause of mortality of pancreatitis is infection.
+		- Early ambulation
+		- ! Dietary teaching - high carb, low fat (fat stimulates the pancreas), high protein. Fruit high in carb, vegetables, whole grains, beans and legeumes. 
+		- Patient teaching of abstinence from alcohol, caffeine, and smoking
+- ⭐ **PEPTIC ULCER DISEASE (Ch.40)**
+	- CHECK FOR GAG REFLEX TO PREVENT ASPIRATION
+	- What is peptic ulcer disease?
+		- Erosion of the GI mucosa resulting from digestive action of HCl acid and pepsin. This ulcer formation can occur in any portion of the GI tract that comes to contact with gastric secretion.
+		- The site of the ulcer will effect the risk factors stemming from the ulcer location.
+	- What are the differences of acute and chronic peptic ulcer disease?
+		- Acute:
+		  Superficial erosion, minimal inflammation, short duration and resolves quickly when the cause is identified and removed.
+		- Chronic:
+		  Muscular wall erosion; formation of fibrous tissue (scarring). Long duration: months or intermittently
+		  More common than acute.
+		- 
+	- What can destroy the mucosal barrier?
+		- Helicobacter pylori - destroys tissue and increases risk of ulcer formation
+		- Asprin and NSAIDS - increases gastric secretion and decreases integrity of mucosal barrier
+		- Corticosteroids, anticoagulants, SSRIs: increase of ulcer development
+		- Lifestyle factors - alcohol, coffee, smoking, psychological stress, depression
+	- What are signs and symptoms
+	- What are the risk factors for GASTRIC peptic ulcer disease?
+		- Occurs most commonly in the antrum portion of the GI
+		- Being a woman
+		- Being >50
+		- More likely to appear than duodenal ulcers and can result in obstruction, hemorrhage, and perforation
+		- Smoking and alcohol
+		- Some medications can make ulcers more prone to appearing
+		- Bile reflux
+		- H. pylori
+	- What are the risk factors for DUODENAL peptic ulcer disease?
+		- 80%~ of all peptic ulcers will be in the duodenal
+		- This can occur at any age, but is most prone between 35 and 45 years
+		- Associated with increase of HCl acid secretion
+		- H. pylori found in 90% to 95% of cases (not all H.pylori carriers will develop ulcers)
+	- Which patients are most negatively effected by duodenal ulcers?
+		- COPD
+		- Cirrhosis of liver
+		- Chronic pancreaitis
+		- Hyperparathyroidism
+		- Chronic renal failure
+		- Zollinger-Ellison syndrone (tumor of he pancreas)
+		- Smoking and alcohol use
+	- 
+	- 
+
+Flashcard configuration (Do NOT open):
+	
